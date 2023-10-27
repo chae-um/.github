@@ -3,7 +3,7 @@
   <img src="https://github.com/chae-um/.github/assets/76567238/6303a309-239b-4a6b-ae55-cc1b8e5f869b" alt="mainIcon" width="400" />
   <h1 align="center">채움</h1>
 </p>
-<p align="center" style="font-size: 1.2rem;">코드 리뷰를 통해 학습과 협업을 모두 경험하는 스터디</p>
+<p align="center" style="font-size: 1.2rem;">코드 리뷰를 지식 공유와 코드 품질 개선을 모두 경험하는 스터디</p>
 
 
 <br>
